@@ -49,8 +49,8 @@ export default function LoginForm({ onLogin }: LoginFormProps) {
           <div className="mx-auto h-12 w-12 bg-primary rounded-lg flex items-center justify-center mb-4">
             <Package className="h-6 w-6 text-primary-foreground" />
           </div>
-          <h1 className="text-3xl font-bold text-foreground">AlmacénPro</h1>
-          <p className="text-muted-foreground mt-2">Sistema de Gestión de Inventario</p>
+          <h1 className="text-3xl font-bold text-foreground">OBRAGEST</h1>
+          <p className="text-muted-foreground mt-2">Sistema de Gestión de Inventario para Obras</p>
         </div>
 
         <Card>
